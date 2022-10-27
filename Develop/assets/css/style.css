@@ -56,9 +56,13 @@ a {
   text-decoration: none;
 }
 
+/* paragraph font size */
+
 p {
   font-size: 16px;
 }
+
+/* main info for the left size content */
 
 .hero {
   height: 800px;
@@ -68,6 +72,8 @@ p {
   background-size: cover;
   background-position: center;
 }
+
+/* places/positions 3 categories/contents in the page */
 
 .float-left {
   float: left;
@@ -84,6 +90,8 @@ p {
   display: inline-block;
   margin-left: 20px;
 }
+
+/* adding font type, backgorund color etc.  */
 
 .benefits {
   margin-right: 20px;
@@ -143,6 +151,8 @@ p {
   margin: 10px auto;
   max-width: 150px;
 }
+
+/* right side of the page's content design */
 
 .search-engine-optimization {
   margin-bottom: 20px;
